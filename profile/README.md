@@ -2,7 +2,9 @@
 
 <a href="https://vaulta.com"><img width="500" alt="image" src="./logo.png"></img></a>
 
-[![Twitter](https://img.shields.io/twitter/follow/vaulta_?style=for-the-badge)](https://twitter.com/vaulta_)
+[![X](https://img.shields.io/badge/X-Vaulta-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/vaulta_)
+[![Telegram](https://img.shields.io/badge/Telegram-Developers-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vaultadevelopers)
+[![ReadTheDocs](https://img.shields.io/badge/Readthedocs-%23000000.svg?style=for-the-badge&logo=readthedocs&logoColor=white)](https://docs.vaulta.com)
 
 **Vaulta** - Secure your future.
 
